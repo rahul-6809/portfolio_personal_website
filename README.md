@@ -33,8 +33,9 @@ You can explore the live version of my portfolio by visiting (https://portfolio-
 
 Install the required dependencies:
 
-cd portfolio
-npm install
+: cd portfolio
+
+: npm install
 
 
 Start the development server:
